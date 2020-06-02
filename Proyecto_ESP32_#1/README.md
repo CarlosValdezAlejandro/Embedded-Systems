@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Project with ESP32 #1
 
 	This project use an ESP32 and a MPU6050 module.
@@ -17,6 +17,3 @@ The following was the knowledge acquired for me in this project:
 * Algorithms
 * Digital Filters
 * Real Time Operating System (FreeRTOS)
-=======
-
->>>>>>> 7b7d3753d16ea503d26ef913c63ed29f6db32ee6
